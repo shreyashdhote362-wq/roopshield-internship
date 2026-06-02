@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 30px auto;
+}
+
+input,
+textarea{
+    width: 100%;
+    padding: 8px;
+}
+
+.error{
+    color: red;
+    font-size: 0.8rem;
+    display: block;
+    margin-top: 4px;
+}
